@@ -1,0 +1,33 @@
+#field td {
+	width: 50px;
+	height: 50px;
+	border: 1px solid black;
+	text-align: center;
+	font-weight: bold;
+}
+
+.container{
+	max-width: 500px;
+	margin: 0 auto;
+	text-align: center;
+}
+.name{
+	display: flex;
+	justify-content: center;
+}
+
+#field{
+	margin: 0 auto;
+}
+
+
+
+p{
+	text-align: center;
+}
+
+.btnAgain{
+	padding: 10px 15px;
+
+}
+
